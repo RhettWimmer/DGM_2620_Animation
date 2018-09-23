@@ -154,7 +154,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="094ab910276009e7" nbframes="47">
+  <scene name="Top" id="094ab910276009e7" nbframes="52">
    <columns>
     <column type="0" name="Drawing" displayOrder="2" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-3" val="46" id="1"/>
@@ -231,14 +231,14 @@
      <elementSeq exposures="43" val="34" id="4"/>
      <elementSeq exposures="44" val="35" id="4"/>
      <elementSeq exposures="45" val="36" id="4"/>
-     <elementSeq exposures="46-102" val="37" id="4"/>
+     <elementSeq exposures="46-47,53-102" val="37" id="4"/>
      <elementSeq exposures="103" val="1_1" id="4"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="4" width="100" anonymous="true" id="5">
-     <elementSeq exposures="1-47" val="1_1" id="5"/>
+     <elementSeq exposures="1-52" val="1_1" id="5"/>
     </column>
     <column type="0" name="Drawing_3" displayOrder="3" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1-47" val="1" id="6"/>
+     <elementSeq exposures="1-52" val="1" id="6"/>
     </column>
    </columns>
    <options>
