@@ -17,6 +17,8 @@
     <dwg name="12"/>
     <dwg name="13"/>
     <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
    </drawings>
   </element>
   <element id="3" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -63,6 +65,8 @@
   <scene name="Top" id="094eb87c2fc00f6b" nbframes="10">
    <columns>
     <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
+     <elementSeq exposures="3" val="16" id="1"/>
+     <elementSeq exposures="4" val="15" id="1"/>
      <elementSeq exposures="5" val="14" id="1"/>
      <elementSeq exposures="6" val="2" id="1"/>
      <elementSeq exposures="7" val="13" id="1"/>
