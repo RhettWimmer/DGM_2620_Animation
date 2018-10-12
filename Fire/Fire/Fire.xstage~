@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.1 build 12463 2017-04-10 10:58:55" version="1401" build="12463" creator="harmony">
+<project source="Harmony Advanced (HarmonyAdvanced.exe) version 15.0.5 build 13929 2018-08-13 08:19:50" version="1505" build="13929" creator="harmony">
  <elements>
   <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -45,6 +45,19 @@
     <dwg name="40"/>
     <dwg name="41"/>
     <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
+    <dwg name="54"/>
+    <dwg name="55"/>
    </drawings>
   </element>
   <element id="3" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -81,6 +94,7 @@
   <framerate val="24"/>
   <zdragging val="true"/>
   <zOrderCompatibilityWith7_3 val="false"/>
+  <pixelPerModelUnitForVectorLayers val="0.28799999999999998"/>
   <pixelPerModelUnitForBitmapLayers val="0.28800000000000009"/>
   <canvasForBitmapLayers size="3840,2160"/>
   <cameraInSymbols val="true"/>
@@ -88,7 +102,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="094eb87c2fc00f6b" nbframes="39">
+  <scene name="Top" id="094eb87c2fc00f6b" nbframes="45">
    <columns>
     <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
      <elementSeq exposures="2" val="17" id="1"/>
@@ -121,18 +135,31 @@
      <elementSeq exposures="29" val="40" id="1"/>
      <elementSeq exposures="30" val="41" id="1"/>
      <elementSeq exposures="31" val="42" id="1"/>
+     <elementSeq exposures="32" val="43" id="1"/>
+     <elementSeq exposures="33" val="44" id="1"/>
+     <elementSeq exposures="34" val="45" id="1"/>
+     <elementSeq exposures="35" val="46" id="1"/>
+     <elementSeq exposures="36" val="47" id="1"/>
+     <elementSeq exposures="37" val="48" id="1"/>
+     <elementSeq exposures="38" val="49" id="1"/>
+     <elementSeq exposures="39" val="50" id="1"/>
+     <elementSeq exposures="40" val="51" id="1"/>
+     <elementSeq exposures="41" val="52" id="1"/>
+     <elementSeq exposures="42" val="53" id="1"/>
+     <elementSeq exposures="43" val="54" id="1"/>
+     <elementSeq exposures="44" val="55" id="1"/>
     </column>
     <column type="0" name="Drawing_2" displayOrder="2" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1-39" val="3" id="3"/>
+     <elementSeq exposures="1-45" val="3" id="3"/>
     </column>
     <column type="0" name="Drawing_3" displayOrder="3" width="110" anonymous="true" id="4">
-     <elementSeq exposures="1-39" val="12" id="4"/>
+     <elementSeq exposures="1-45" val="12" id="4"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="4" width="100" anonymous="true" id="5">
-     <elementSeq exposures="1-39" val="1_2" id="5"/>
+     <elementSeq exposures="1-45" val="1_2" id="5"/>
     </column>
     <column type="0" name="Drawing_4" displayOrder="5" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1-39" val="2" id="6"/>
+     <elementSeq exposures="1-45" val="2" id="6"/>
     </column>
    </columns>
    <options>
@@ -145,8 +172,8 @@
     <nodeslist>
      <module type="COMPOSITE" name="Composite" pos="0,0,0" publishUnderTab="Composite">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <compositeMode val="compositeBitmap"/>
@@ -164,19 +191,20 @@
      </module>
      <module type="DISPLAY" name="Display" pos="50,50,0" publishUnderTab="Display">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
      </module>
      <module type="WRITE" name="Write" pos="-50,50,0" publishUnderTab="Write">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <exportToMovie val="false"/>
        <drawingName val="frames/final-"/>
        <moviePath val="frames/output"/>
+       <movieFormat val="com.toonboom.quicktime.legacy"/>
        <movieAudio/>
        <movieVideo/>
        <movieVideoaudio/>
@@ -196,8 +224,8 @@
      </module>
      <module type="READ" name="Drawing" pos="-65,-50,0" publishUnderTab="Drawing">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -271,8 +299,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -300,8 +333,8 @@
      </module>
      <module type="READ" name="Drawing_2" pos="0,0,0" publishUnderTab="Drawing_2">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -375,8 +408,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -404,8 +442,8 @@
      </module>
      <module type="READ" name="Drawing_3" pos="0,0,0" publishUnderTab="Drawing_3">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -479,8 +517,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -508,8 +551,8 @@
      </module>
      <module type="READ" name="Drawing_1" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -583,8 +626,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -612,8 +660,8 @@
      </module>
      <module type="READ" name="Drawing_4" pos="0,0,0" publishUnderTab="Drawing_4">
       <options>
-       <version val="1"/>
        <collapsed val="false"/>
+       <version val="1"/>
       </options>
       <attrs>
        <enable3d val="false"/>
@@ -687,8 +735,13 @@
        <lineArtDrawingMode val="VectorDrawingMode"/>
        <colorArtDrawingMode val="VectorDrawingMode"/>
        <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
        <readColor val="true"/>
        <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
        <applyMatteToColor val="N"/>
        <enableLineTexture val="true"/>
        <antialiasingQuality val="HIGH"/>
@@ -725,6 +778,11 @@
      <link out="Drawing_4" in="Composite" inport="0"/>
     </linkedlist>
    </rootgroup>
+   <metas>
+    <meta type="guideList" name="guideList" creator="Harmony Advanced" version="1.0">
+     <guideList selectedGuide="-1"/>
+    </meta>
+   </metas>
   </scene>
  </scenes>
  <symbols>
