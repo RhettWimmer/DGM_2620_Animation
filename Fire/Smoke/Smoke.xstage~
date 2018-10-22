@@ -4,6 +4,7 @@
   <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+    <dwg name="2"/>
    </drawings>
   </element>
   <element id="2" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -28,10 +29,11 @@
   <scene name="Top" id="0955b9766b600a27" nbframes="60">
    <columns>
     <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
-     <elementSeq exposures="1" val="1" id="1"/>
+     <elementSeq exposures="4" val="2" id="1"/>
+     <elementSeq exposures="5" val="1" id="1"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="2" width="100" anonymous="true" id="2">
-     <elementSeq exposures="1" val="1" id="2"/>
+     <elementSeq exposures="1,3-60" val="1" id="2"/>
     </column>
    </columns>
    <options>
