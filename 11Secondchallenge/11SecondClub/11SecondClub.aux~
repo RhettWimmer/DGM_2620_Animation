@@ -1,0 +1,22 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="11SecondClub" ID="1">
+ <Element Name="Arm" ID="1" Folder="Arm">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+ </Element>
+ <Element Name="Sketch" ID="2" Folder="Sketch">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Background" ID="3" Folder="Background">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Body" ID="5" Folder="Body">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Face" ID="6" Folder="Face">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Cigarette" ID="7" Folder="Cigarette">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
