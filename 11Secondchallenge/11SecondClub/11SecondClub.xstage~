@@ -5,6 +5,12 @@
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="2_1"/>
+    <dwg name="2_3"/>
+    <dwg name="2_4"/>
+    <dwg name="2_5"/>
+    <dwg name="2_7"/>
+    <dwg name="2_8"/>
    </drawings>
   </element>
   <element id="2" elementName="Sketch" elementFolder="Sketch" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -50,18 +56,22 @@
    <columns>
     <column type="0" name="Drawing" displayOrder="3" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="2" id="1"/>
+     <elementSeq exposures="2" val="2_3" id="1"/>
+     <elementSeq exposures="3" val="2_5" id="1"/>
+     <elementSeq exposures="4" val="2_7" id="1"/>
+     <elementSeq exposures="5" val="2_8" id="1"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="5" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
     </column>
     <column type="0" name="Drawing_2" displayOrder="6" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1" val="1" id="3"/>
+     <elementSeq exposures="1-60" val="1" id="3"/>
     </column>
     <column type="0" name="Body" displayOrder="4" width="100" anonymous="true" id="5">
-     <elementSeq exposures="1" val="1" id="5"/>
+     <elementSeq exposures="1-60" val="1" id="5"/>
     </column>
     <column type="0" name="ArmColor" displayOrder="2" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1" val="1" id="6"/>
+     <elementSeq exposures="1-60" val="1" id="6"/>
     </column>
     <column type="0" name="Drawing_3" displayOrder="1" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="1" id="7"/>
