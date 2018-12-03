@@ -9,6 +9,25 @@
   <Drawing Key="" Name="2_5" Version="1"/>
   <Drawing Key="" Name="2_7" Version="1"/>
   <Drawing Key="" Name="2_8" Version="1"/>
+  <Drawing Key="" Name="2_2" Version="1"/>
+  <Drawing Key="" Name="2_9" Version="1"/>
+  <Drawing Key="" Name="2_10" Version="1"/>
+  <Drawing Key="" Name="2_11" Version="1"/>
+  <Drawing Key="" Name="2_12" Version="1"/>
+  <Drawing Key="" Name="2_13" Version="1"/>
+  <Drawing Key="" Name="2_14" Version="1"/>
+  <Drawing Key="" Name="2_15" Version="1"/>
+  <Drawing Key="" Name="2_16" Version="1"/>
+  <Drawing Key="" Name="2_17" Version="1"/>
+  <Drawing Key="" Name="2_18" Version="1"/>
+  <Drawing Key="" Name="2_19" Version="1"/>
+  <Drawing Key="" Name="2_20" Version="1"/>
+  <Drawing Key="" Name="2_21" Version="1"/>
+  <Drawing Key="" Name="2_22" Version="1"/>
+  <Drawing Key="" Name="2_23" Version="1"/>
+  <Drawing Key="" Name="2_24" Version="1"/>
+  <Drawing Key="" Name="2_25" Version="1"/>
+  <Drawing Key="" Name="2_26" Version="1"/>
  </Element>
  <Element Name="Sketch" ID="2" Folder="Sketch">
   <Drawing Key="" Name="1" Version="1"/>
@@ -24,5 +43,43 @@
  </Element>
  <Element Name="Cigarette" ID="7" Folder="Cigarette">
   <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Drink" ID="8" Folder="Drink">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+  <Drawing Key="" Name="9" Version="1"/>
+  <Drawing Key="" Name="10" Version="1"/>
+  <Drawing Key="" Name="11" Version="1"/>
+  <Drawing Key="" Name="12" Version="1"/>
+  <Drawing Key="" Name="13" Version="1"/>
+  <Drawing Key="" Name="14" Version="1"/>
+  <Drawing Key="" Name="15" Version="1"/>
+  <Drawing Key="" Name="16" Version="1"/>
+  <Drawing Key="" Name="17" Version="1"/>
+  <Drawing Key="" Name="18" Version="1"/>
+  <Drawing Key="" Name="19" Version="1"/>
+  <Drawing Key="" Name="20" Version="1"/>
+  <Drawing Key="" Name="21" Version="1"/>
+  <Drawing Key="" Name="22" Version="1"/>
+  <Drawing Key="" Name="23" Version="1"/>
+  <Drawing Key="" Name="24" Version="1"/>
+  <Drawing Key="" Name="25" Version="1"/>
+  <Drawing Key="" Name="26" Version="1"/>
+  <Drawing Key="" Name="27" Version="1"/>
+  <Drawing Key="" Name="28" Version="1"/>
+  <Drawing Key="" Name="29" Version="1"/>
+  <Drawing Key="" Name="30" Version="1"/>
+  <Drawing Key="" Name="31" Version="1"/>
+  <Drawing Key="" Name="32" Version="1"/>
+  <Drawing Key="" Name="33" Version="1"/>
+  <Drawing Key="" Name="34" Version="1"/>
+  <Drawing Key="" Name="35" Version="1"/>
+  <Drawing Key="" Name="36" Version="1"/>
  </Element>
 </SceneVersion>
