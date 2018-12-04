@@ -28,6 +28,11 @@
   <Drawing Key="" Name="2_24" Version="1"/>
   <Drawing Key="" Name="2_25" Version="1"/>
   <Drawing Key="" Name="2_26" Version="1"/>
+  <Drawing Key="" Name="2_27" Version="1"/>
+  <Drawing Key="" Name="2_28" Version="1"/>
+  <Drawing Key="" Name="2_29" Version="1"/>
+  <Drawing Key="" Name="2_30" Version="1"/>
+  <Drawing Key="" Name="2_31" Version="1"/>
  </Element>
  <Element Name="Sketch" ID="2" Folder="Sketch">
   <Drawing Key="" Name="1" Version="1"/>
@@ -40,6 +45,10 @@
  </Element>
  <Element Name="Face" ID="6" Folder="Face">
   <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="1_1" Version="1"/>
+  <Drawing Key="" Name="1_3" Version="1"/>
+  <Drawing Key="" Name="1_4" Version="1"/>
+  <Drawing Key="" Name="1_5" Version="1"/>
  </Element>
  <Element Name="Cigarette" ID="7" Folder="Cigarette">
   <Drawing Key="" Name="1" Version="1"/>

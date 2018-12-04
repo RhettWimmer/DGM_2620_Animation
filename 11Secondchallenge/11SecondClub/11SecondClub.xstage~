@@ -30,6 +30,11 @@
     <dwg name="2_24"/>
     <dwg name="2_25"/>
     <dwg name="2_26"/>
+    <dwg name="2_27"/>
+    <dwg name="2_28"/>
+    <dwg name="2_29"/>
+    <dwg name="2_30"/>
+    <dwg name="2_31"/>
    </drawings>
   </element>
   <element id="2" elementName="Sketch" elementFolder="Sketch" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -50,6 +55,10 @@
   <element id="6" elementName="Face" elementFolder="Face" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+    <dwg name="1_1"/>
+    <dwg name="1_3"/>
+    <dwg name="1_4"/>
+    <dwg name="1_5"/>
    </drawings>
   </element>
   <element id="7" elementName="Cigarette" elementFolder="Cigarette" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -111,7 +120,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="095ebec187d007ee" nbframes="74">
+  <scene name="Top" id="095ebec187d007ee" nbframes="71">
    <columns>
     <column type="0" name="Drawing" displayOrder="3" width="100" anonymous="true" id="1">
      <elementSeq exposures="1,23" val="2" id="1"/>
@@ -124,14 +133,11 @@
      <elementSeq exposures="26" val="2_14" id="1"/>
      <elementSeq exposures="27" val="2_15" id="1"/>
      <elementSeq exposures="28-63" val="2_17" id="1"/>
-     <elementSeq exposures="64" val="2_22" id="1"/>
-     <elementSeq exposures="65" val="2_26" id="1"/>
-     <elementSeq exposures="66" val="2_23" id="1"/>
-     <elementSeq exposures="67" val="2_19" id="1"/>
-     <elementSeq exposures="68" val="2_24" id="1"/>
-     <elementSeq exposures="69" val="2_20" id="1"/>
-     <elementSeq exposures="70" val="2_25" id="1"/>
-     <elementSeq exposures="71" val="2_21" id="1"/>
+     <elementSeq exposures="64" val="2_27" id="1"/>
+     <elementSeq exposures="65" val="2_28" id="1"/>
+     <elementSeq exposures="66" val="2_29" id="1"/>
+     <elementSeq exposures="67" val="2_30" id="1"/>
+     <elementSeq exposures="68-71" val="2_31" id="1"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="6" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
@@ -143,7 +149,11 @@
      <elementSeq exposures="1-74" val="1" id="5"/>
     </column>
     <column type="0" name="ArmColor" displayOrder="2" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1-74" val="1" id="6"/>
+     <elementSeq exposures="1-7" val="1_1" id="6"/>
+     <elementSeq exposures="8" val="1_3" id="6"/>
+     <elementSeq exposures="9" val="1_4" id="6"/>
+     <elementSeq exposures="10" val="1_5" id="6"/>
+     <elementSeq exposures="72-74" val="1" id="6"/>
     </column>
     <column type="0" name="Drawing_3" displayOrder="1" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="1" id="7"/>
