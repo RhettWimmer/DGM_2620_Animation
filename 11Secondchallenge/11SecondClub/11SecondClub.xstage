@@ -119,6 +119,16 @@
     <dwg name="1_1"/>
     <dwg name="1_2"/>
     <dwg name="1_3"/>
+    <dwg name="1_4"/>
+    <dwg name="1_5"/>
+    <dwg name="1_6"/>
+    <dwg name="1_7"/>
+    <dwg name="1_8"/>
+    <dwg name="1_9"/>
+    <dwg name="1_10"/>
+    <dwg name="1_11"/>
+    <dwg name="1_12"/>
+    <dwg name="1_13"/>
    </drawings>
   </element>
   <element id="8" elementName="Drink" elementFolder="Drink" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -227,6 +237,25 @@
     <dwg name="1_63"/>
     <dwg name="1_64"/>
     <dwg name="1_65"/>
+    <dwg name="1_20"/>
+    <dwg name="1_62"/>
+    <dwg name="1_66"/>
+    <dwg name="1_67"/>
+    <dwg name="1_68"/>
+    <dwg name="1_69"/>
+    <dwg name="1_70"/>
+    <dwg name="1_71"/>
+    <dwg name="1_72"/>
+    <dwg name="1_73"/>
+    <dwg name="1_74"/>
+    <dwg name="1_76"/>
+    <dwg name="1_77"/>
+    <dwg name="1_78"/>
+    <dwg name="1_79"/>
+    <dwg name="1_80"/>
+    <dwg name="1_81"/>
+    <dwg name="1_82"/>
+    <dwg name="1_83"/>
    </drawings>
   </element>
  </elements>
@@ -323,7 +352,17 @@
      <elementSeq exposures="10-177" val="1_5" id="6"/>
     </column>
     <column type="0" name="Drawing_3" displayOrder="1" width="100" anonymous="true" id="7">
-     <elementSeq exposures="1-160" val="1" id="7"/>
+     <elementSeq exposures="1-156" val="1" id="7"/>
+     <elementSeq exposures="157" val="1_5" id="7"/>
+     <elementSeq exposures="159" val="1_4" id="7"/>
+     <elementSeq exposures="161" val="1_6" id="7"/>
+     <elementSeq exposures="163" val="1_9" id="7"/>
+     <elementSeq exposures="165" val="1_10" id="7"/>
+     <elementSeq exposures="167" val="1_7" id="7"/>
+     <elementSeq exposures="169" val="1_11" id="7"/>
+     <elementSeq exposures="171" val="1_12" id="7"/>
+     <elementSeq exposures="173" val="1_13" id="7"/>
+     <elementSeq exposures="175" val="1_8" id="7"/>
     </column>
     <column type="0" name="Drink" displayOrder="5" width="100" anonymous="true" id="8">
      <elementSeq exposures="29" val="1" id="8"/>
@@ -390,9 +429,22 @@
      <elementSeq exposures="151" val="1_51" id="9"/>
      <elementSeq exposures="152" val="1_52" id="9"/>
      <elementSeq exposures="153" val="1_53" id="9"/>
-     <elementSeq exposures="154-159" val="1_54" id="9"/>
-     <elementSeq exposures="160" val="1_55" id="9"/>
-     <elementSeq exposures="161" val="1_56" id="9"/>
+     <elementSeq exposures="154-156" val="1_54" id="9"/>
+     <elementSeq exposures="157" val="1_68" id="9"/>
+     <elementSeq exposures="158" val="1_79" id="9"/>
+     <elementSeq exposures="159" val="1_73" id="9"/>
+     <elementSeq exposures="160" val="1_80" id="9"/>
+     <elementSeq exposures="161" val="1_69" id="9"/>
+     <elementSeq exposures="162" val="1_81" id="9"/>
+     <elementSeq exposures="163" val="1_74" id="9"/>
+     <elementSeq exposures="164" val="1_82" id="9"/>
+     <elementSeq exposures="165" val="1_66" id="9"/>
+     <elementSeq exposures="166" val="1_83" id="9"/>
+     <elementSeq exposures="167" val="1_76" id="9"/>
+     <elementSeq exposures="169" val="1_77" id="9"/>
+     <elementSeq exposures="171" val="1_71" id="9"/>
+     <elementSeq exposures="173" val="1_78" id="9"/>
+     <elementSeq exposures="175" val="1_72" id="9"/>
     </column>
    </columns>
    <options>
