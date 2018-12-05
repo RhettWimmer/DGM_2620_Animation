@@ -101,6 +101,12 @@
   <Drawing Key="" Name="1_3" Version="1"/>
   <Drawing Key="" Name="1_4" Version="1"/>
   <Drawing Key="" Name="1_5" Version="1"/>
+  <Drawing Key="" Name="1_2" Version="1"/>
+  <Drawing Key="" Name="1_6" Version="1"/>
+  <Drawing Key="" Name="1_7" Version="1"/>
+  <Drawing Key="" Name="1_8" Version="1"/>
+  <Drawing Key="" Name="1_9" Version="1"/>
+  <Drawing Key="" Name="1_10" Version="1"/>
  </Element>
  <Element Name="Cigarette" ID="7" Folder="Cigarette">
   <Drawing Key="" Name="1" Version="1"/>
@@ -117,6 +123,22 @@
   <Drawing Key="" Name="1_11" Version="1"/>
   <Drawing Key="" Name="1_12" Version="1"/>
   <Drawing Key="" Name="1_13" Version="1"/>
+  <Drawing Key="" Name="1_14" Version="1"/>
+  <Drawing Key="" Name="1_15" Version="1"/>
+  <Drawing Key="" Name="1_16" Version="1"/>
+  <Drawing Key="" Name="1_17" Version="1"/>
+  <Drawing Key="" Name="1_18" Version="1"/>
+  <Drawing Key="" Name="1_19" Version="1"/>
+  <Drawing Key="" Name="1_20" Version="1"/>
+  <Drawing Key="" Name="1_21" Version="1"/>
+  <Drawing Key="" Name="1_22" Version="1"/>
+  <Drawing Key="" Name="1_23" Version="1"/>
+  <Drawing Key="" Name="1_24" Version="1"/>
+  <Drawing Key="" Name="1_25" Version="1"/>
+  <Drawing Key="" Name="1_26" Version="1"/>
+  <Drawing Key="" Name="1_27" Version="1"/>
+  <Drawing Key="" Name="1_28" Version="1"/>
+  <Drawing Key="" Name="1_30" Version="1"/>
  </Element>
  <Element Name="Drink" ID="8" Folder="Drink">
   <Drawing Key="" Name="1" Version="1"/>
@@ -240,5 +262,29 @@
   <Drawing Key="" Name="1_81" Version="1"/>
   <Drawing Key="" Name="1_82" Version="1"/>
   <Drawing Key="" Name="1_83" Version="1"/>
+  <Drawing Key="" Name="1_84" Version="1"/>
+  <Drawing Key="" Name="1_85" Version="1"/>
+  <Drawing Key="" Name="1_86" Version="1"/>
+  <Drawing Key="" Name="1_87" Version="1"/>
+  <Drawing Key="" Name="1_89" Version="1"/>
+  <Drawing Key="" Name="1_90" Version="1"/>
+  <Drawing Key="" Name="1_91" Version="1"/>
+  <Drawing Key="" Name="1_93" Version="1"/>
+  <Drawing Key="" Name="1_94" Version="1"/>
+  <Drawing Key="" Name="1_95" Version="1"/>
+  <Drawing Key="" Name="1_96" Version="1"/>
+  <Drawing Key="" Name="1_97" Version="1"/>
+  <Drawing Key="" Name="1_98" Version="1"/>
+  <Drawing Key="" Name="1_99" Version="1"/>
+  <Drawing Key="" Name="1_100" Version="1"/>
+  <Drawing Key="" Name="1_101" Version="1"/>
+  <Drawing Key="" Name="1_102" Version="1"/>
+  <Drawing Key="" Name="1_103" Version="1"/>
+  <Drawing Key="" Name="1_104" Version="1"/>
+  <Drawing Key="" Name="1_105" Version="1"/>
+  <Drawing Key="" Name="1_106" Version="1"/>
+  <Drawing Key="" Name="1_107" Version="1"/>
+  <Drawing Key="" Name="1_108" Version="1"/>
+  <Drawing Key="" Name="1_109" Version="1"/>
  </Element>
 </SceneVersion>

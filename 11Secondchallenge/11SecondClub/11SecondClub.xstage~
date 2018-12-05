@@ -111,6 +111,12 @@
     <dwg name="1_3"/>
     <dwg name="1_4"/>
     <dwg name="1_5"/>
+    <dwg name="1_2"/>
+    <dwg name="1_6"/>
+    <dwg name="1_7"/>
+    <dwg name="1_8"/>
+    <dwg name="1_9"/>
+    <dwg name="1_10"/>
    </drawings>
   </element>
   <element id="7" elementName="Cigarette" elementFolder="Cigarette" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -129,6 +135,22 @@
     <dwg name="1_11"/>
     <dwg name="1_12"/>
     <dwg name="1_13"/>
+    <dwg name="1_14"/>
+    <dwg name="1_15"/>
+    <dwg name="1_16"/>
+    <dwg name="1_17"/>
+    <dwg name="1_18"/>
+    <dwg name="1_19"/>
+    <dwg name="1_20"/>
+    <dwg name="1_21"/>
+    <dwg name="1_22"/>
+    <dwg name="1_23"/>
+    <dwg name="1_24"/>
+    <dwg name="1_25"/>
+    <dwg name="1_26"/>
+    <dwg name="1_27"/>
+    <dwg name="1_28"/>
+    <dwg name="1_30"/>
    </drawings>
   </element>
   <element id="8" elementName="Drink" elementFolder="Drink" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -256,6 +278,30 @@
     <dwg name="1_81"/>
     <dwg name="1_82"/>
     <dwg name="1_83"/>
+    <dwg name="1_84"/>
+    <dwg name="1_85"/>
+    <dwg name="1_86"/>
+    <dwg name="1_87"/>
+    <dwg name="1_89"/>
+    <dwg name="1_90"/>
+    <dwg name="1_91"/>
+    <dwg name="1_93"/>
+    <dwg name="1_94"/>
+    <dwg name="1_95"/>
+    <dwg name="1_96"/>
+    <dwg name="1_97"/>
+    <dwg name="1_98"/>
+    <dwg name="1_99"/>
+    <dwg name="1_100"/>
+    <dwg name="1_101"/>
+    <dwg name="1_102"/>
+    <dwg name="1_103"/>
+    <dwg name="1_104"/>
+    <dwg name="1_105"/>
+    <dwg name="1_106"/>
+    <dwg name="1_107"/>
+    <dwg name="1_108"/>
+    <dwg name="1_109"/>
    </drawings>
   </element>
  </elements>
@@ -349,19 +395,40 @@
      <elementSeq exposures="1-7" val="1_1" id="6"/>
      <elementSeq exposures="8" val="1_3" id="6"/>
      <elementSeq exposures="9" val="1_4" id="6"/>
-     <elementSeq exposures="10-177" val="1_5" id="6"/>
+     <elementSeq exposures="10" val="1_5" id="6"/>
+     <elementSeq exposures="11" val="1_2" id="6"/>
+     <elementSeq exposures="12" val="1_6" id="6"/>
+     <elementSeq exposures="13" val="1_7" id="6"/>
+     <elementSeq exposures="14" val="1_8" id="6"/>
+     <elementSeq exposures="15" val="1_9" id="6"/>
+     <elementSeq exposures="16" val="1_10" id="6"/>
     </column>
-    <column type="0" name="Drawing_3" displayOrder="1" width="100" anonymous="true" id="7">
-     <elementSeq exposures="1-156" val="1" id="7"/>
+    <column type="0" name="Drawing_3" display="false" displayOrder="1" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1-144" val="1" id="7"/>
+     <elementSeq exposures="145" val="1_23" id="7"/>
+     <elementSeq exposures="146" val="1_24" id="7"/>
+     <elementSeq exposures="147" val="1_26" id="7"/>
+     <elementSeq exposures="148" val="1_27" id="7"/>
+     <elementSeq exposures="149" val="1_28" id="7"/>
+     <elementSeq exposures="150-156" val="1_30" id="7"/>
      <elementSeq exposures="157" val="1_5" id="7"/>
+     <elementSeq exposures="158" val="1_14" id="7"/>
      <elementSeq exposures="159" val="1_4" id="7"/>
+     <elementSeq exposures="160" val="1_15" id="7"/>
      <elementSeq exposures="161" val="1_6" id="7"/>
+     <elementSeq exposures="162" val="1_16" id="7"/>
      <elementSeq exposures="163" val="1_9" id="7"/>
+     <elementSeq exposures="164" val="1_17" id="7"/>
      <elementSeq exposures="165" val="1_10" id="7"/>
+     <elementSeq exposures="166" val="1_18" id="7"/>
      <elementSeq exposures="167" val="1_7" id="7"/>
+     <elementSeq exposures="168" val="1_19" id="7"/>
      <elementSeq exposures="169" val="1_11" id="7"/>
+     <elementSeq exposures="170" val="1_20" id="7"/>
      <elementSeq exposures="171" val="1_12" id="7"/>
+     <elementSeq exposures="172" val="1_21" id="7"/>
      <elementSeq exposures="173" val="1_13" id="7"/>
+     <elementSeq exposures="174" val="1_22" id="7"/>
      <elementSeq exposures="175" val="1_8" id="7"/>
     </column>
     <column type="0" name="Drink" displayOrder="5" width="100" anonymous="true" id="8">
@@ -400,7 +467,7 @@
      <elementSeq exposures="61" val="17" id="8"/>
      <elementSeq exposures="62" val="35" id="8"/>
      <elementSeq exposures="63" val="12" id="8"/>
-     <elementSeq exposures="64-177" val="36" id="8"/>
+     <elementSeq exposures="64-211" val="36" id="8"/>
     </column>
     <column type="0" name="AnotherArm" displayOrder="2" width="100" anonymous="true" id="9">
      <elementSeq exposures="128" val="1_28" id="9"/>
@@ -441,10 +508,32 @@
      <elementSeq exposures="165" val="1_66" id="9"/>
      <elementSeq exposures="166" val="1_83" id="9"/>
      <elementSeq exposures="167" val="1_76" id="9"/>
+     <elementSeq exposures="168" val="1_84" id="9"/>
      <elementSeq exposures="169" val="1_77" id="9"/>
+     <elementSeq exposures="170" val="1_85" id="9"/>
      <elementSeq exposures="171" val="1_71" id="9"/>
+     <elementSeq exposures="172" val="1_86" id="9"/>
      <elementSeq exposures="173" val="1_78" id="9"/>
-     <elementSeq exposures="175" val="1_72" id="9"/>
+     <elementSeq exposures="174" val="1_72" id="9"/>
+     <elementSeq exposures="175" val="1_87" id="9"/>
+     <elementSeq exposures="176" val="1_103" id="9"/>
+     <elementSeq exposures="177" val="1_89" id="9"/>
+     <elementSeq exposures="178" val="1_104" id="9"/>
+     <elementSeq exposures="179" val="1_90" id="9"/>
+     <elementSeq exposures="180" val="1_105" id="9"/>
+     <elementSeq exposures="181" val="1_91" id="9"/>
+     <elementSeq exposures="182" val="1_93" id="9"/>
+     <elementSeq exposures="183" val="1_108" id="9"/>
+     <elementSeq exposures="184" val="1_94" id="9"/>
+     <elementSeq exposures="185" val="1_109" id="9"/>
+     <elementSeq exposures="186" val="1_95" id="9"/>
+     <elementSeq exposures="187" val="1_96" id="9"/>
+     <elementSeq exposures="188" val="1_97" id="9"/>
+     <elementSeq exposures="189" val="1_98" id="9"/>
+     <elementSeq exposures="190" val="1_99" id="9"/>
+     <elementSeq exposures="191" val="1_100" id="9"/>
+     <elementSeq exposures="192" val="1_101" id="9"/>
+     <elementSeq exposures="193-211" val="1_102" id="9"/>
     </column>
    </columns>
    <options>
@@ -508,6 +597,7 @@
      </module>
      <module type="READ" name="Cigarette" pos="0,0,0" publishUnderTab="Drawing_3">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
