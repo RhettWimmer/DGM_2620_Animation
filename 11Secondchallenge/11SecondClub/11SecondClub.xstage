@@ -210,6 +210,69 @@
     <dwg name="1_54"/>
     <dwg name="1_55"/>
     <dwg name="1_56"/>
+    <dwg name="1_57"/>
+    <dwg name="1_58"/>
+    <dwg name="1_59"/>
+    <dwg name="1_60"/>
+    <dwg name="1_61"/>
+    <dwg name="1_62"/>
+    <dwg name="1_63"/>
+    <dwg name="1_64"/>
+    <dwg name="1_65"/>
+    <dwg name="1_66"/>
+    <dwg name="1_67"/>
+    <dwg name="1_68"/>
+    <dwg name="1_69"/>
+    <dwg name="1_70"/>
+    <dwg name="1_71"/>
+    <dwg name="1_72"/>
+    <dwg name="1_73"/>
+    <dwg name="1_74"/>
+    <dwg name="1_75"/>
+    <dwg name="1_76"/>
+    <dwg name="1_77"/>
+    <dwg name="1_78"/>
+    <dwg name="1_79"/>
+    <dwg name="1_80"/>
+    <dwg name="1_81"/>
+    <dwg name="1_82"/>
+    <dwg name="1_83"/>
+    <dwg name="1_84"/>
+    <dwg name="1_85"/>
+    <dwg name="1_86"/>
+    <dwg name="1_87"/>
+    <dwg name="1_88"/>
+    <dwg name="1_89"/>
+    <dwg name="1_90"/>
+    <dwg name="1_91"/>
+    <dwg name="1_92"/>
+    <dwg name="1_93"/>
+    <dwg name="1_94"/>
+    <dwg name="1_95"/>
+    <dwg name="1_96"/>
+    <dwg name="1_97"/>
+    <dwg name="1_98"/>
+    <dwg name="1_99"/>
+    <dwg name="1_100"/>
+    <dwg name="1_101"/>
+    <dwg name="1_104"/>
+    <dwg name="1_105"/>
+    <dwg name="1_106"/>
+    <dwg name="1_107"/>
+    <dwg name="1_108"/>
+    <dwg name="1_109"/>
+    <dwg name="1_110"/>
+    <dwg name="1_111"/>
+    <dwg name="1_112"/>
+    <dwg name="1_113"/>
+    <dwg name="1_114"/>
+    <dwg name="1_115"/>
+    <dwg name="1_116"/>
+    <dwg name="1_117"/>
+    <dwg name="1_118"/>
+    <dwg name="1_119"/>
+    <dwg name="1_120"/>
+    <dwg name="1_121"/>
    </drawings>
   </element>
   <element id="7" elementName="Cigarette" elementFolder="Cigarette" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -256,6 +319,40 @@
     <dwg name="1_39"/>
     <dwg name="1_40"/>
     <dwg name="1_41"/>
+    <dwg name="1_42"/>
+    <dwg name="1_43"/>
+    <dwg name="1_44"/>
+    <dwg name="1_45"/>
+    <dwg name="1_46"/>
+    <dwg name="1_47"/>
+    <dwg name="1_48"/>
+    <dwg name="1_49"/>
+    <dwg name="1_50"/>
+    <dwg name="1_51"/>
+    <dwg name="1_52"/>
+    <dwg name="1_53"/>
+    <dwg name="1_55"/>
+    <dwg name="1_56"/>
+    <dwg name="1_57"/>
+    <dwg name="1_58"/>
+    <dwg name="1_59"/>
+    <dwg name="1_60"/>
+    <dwg name="1_61"/>
+    <dwg name="1_62"/>
+    <dwg name="1_63"/>
+    <dwg name="1_64"/>
+    <dwg name="1_65"/>
+    <dwg name="1_66"/>
+    <dwg name="1_67"/>
+    <dwg name="1_68"/>
+    <dwg name="1_69"/>
+    <dwg name="1_70"/>
+    <dwg name="1_71"/>
+    <dwg name="1_72"/>
+    <dwg name="1_73"/>
+    <dwg name="1_74"/>
+    <dwg name="1_75"/>
+    <dwg name="1_76"/>
    </drawings>
   </element>
   <element id="8" elementName="Drink" elementFolder="Drink" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -686,7 +783,7 @@
  <scenes>
   <scene name="Top" id="095ebec187d007ee" nbframes="306">
    <columns>
-    <column type="0" name="Drawing" displayOrder="5" width="100" anonymous="true" id="1">
+    <column type="0" name="Drawing" displayOrder="4" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-19" val="2_8" id="1"/>
      <elementSeq exposures="20" val="2_7" id="1"/>
      <elementSeq exposures="21" val="2_5" id="1"/>
@@ -696,8 +793,7 @@
      <elementSeq exposures="25" val="2_13" id="1"/>
      <elementSeq exposures="26" val="2_14" id="1"/>
      <elementSeq exposures="27" val="2_15" id="1"/>
-     <elementSeq exposures="28-63" val="2_17" id="1"/>
-     <elementSeq exposures="64" val="2_27" id="1"/>
+     <elementSeq exposures="28-64" val="2_17" id="1"/>
      <elementSeq exposures="65" val="2_28" id="1"/>
      <elementSeq exposures="66" val="2_29" id="1"/>
      <elementSeq exposures="67" val="2_30" id="1"/>
@@ -805,8 +901,11 @@
      <elementSeq exposures="280" val="1_17" id="5"/>
      <elementSeq exposures="281-287,288-311" val="1_18" id="5"/>
     </column>
-    <column type="0" name="ArmColor" displayOrder="1" width="100" anonymous="true" id="6">
-     <elementSeq exposures="1-9" val="1_12" id="6"/>
+    <column type="0" name="ArmColor" displayOrder="5" width="100" anonymous="true" id="6">
+     <elementSeq exposures="1-2" val="1_106" id="6"/>
+     <elementSeq exposures="3-4" val="1_107" id="6"/>
+     <elementSeq exposures="5-6" val="1_108" id="6"/>
+     <elementSeq exposures="7-9" val="1_109" id="6"/>
      <elementSeq exposures="10-12" val="1_13" id="6"/>
      <elementSeq exposures="13,16" val="1_14" id="6"/>
      <elementSeq exposures="14-15" val="1_23" id="6"/>
@@ -831,7 +930,14 @@
      <elementSeq exposures="92-93" val="1_38" id="6"/>
      <elementSeq exposures="94-96" val="1_39" id="6"/>
      <elementSeq exposures="97-99" val="1_40" id="6"/>
-     <elementSeq exposures="100-107" val="1_41" id="6"/>
+     <elementSeq exposures="100" val="1_41" id="6"/>
+     <elementSeq exposures="101" val="1_93" id="6"/>
+     <elementSeq exposures="102" val="1_94" id="6"/>
+     <elementSeq exposures="103" val="1_95" id="6"/>
+     <elementSeq exposures="104" val="1_96" id="6"/>
+     <elementSeq exposures="105" val="1_97" id="6"/>
+     <elementSeq exposures="106" val="1_98" id="6"/>
+     <elementSeq exposures="107" val="1_99" id="6"/>
      <elementSeq exposures="108-110" val="1_43" id="6"/>
      <elementSeq exposures="111-113" val="1_44" id="6"/>
      <elementSeq exposures="114-115" val="1_45" id="6"/>
@@ -845,19 +951,92 @@
      <elementSeq exposures="139-140" val="1_54" id="6"/>
      <elementSeq exposures="141-142" val="1_55" id="6"/>
      <elementSeq exposures="143-144" val="1_56" id="6"/>
-     <elementSeq exposures="163,168" val="1_5" id="6"/>
-     <elementSeq exposures="164,167" val="1_4" id="6"/>
-     <elementSeq exposures="165" val="1_1" id="6"/>
-     <elementSeq exposures="166" val="1_3" id="6"/>
-     <elementSeq exposures="169" val="1_2" id="6"/>
-     <elementSeq exposures="170" val="1_6" id="6"/>
-     <elementSeq exposures="171" val="1_7" id="6"/>
-     <elementSeq exposures="172" val="1_8" id="6"/>
-     <elementSeq exposures="173" val="1_9" id="6"/>
-     <elementSeq exposures="174" val="1_10" id="6"/>
+     <elementSeq exposures="145-146" val="1_57" id="6"/>
+     <elementSeq exposures="147-148" val="1_58" id="6"/>
+     <elementSeq exposures="149-150" val="1_59" id="6"/>
+     <elementSeq exposures="151-154" val="1_60" id="6"/>
+     <elementSeq exposures="155-175,184-187" val="1_61" id="6"/>
+     <elementSeq exposures="176" val="1_114" id="6"/>
+     <elementSeq exposures="177" val="1_115" id="6"/>
+     <elementSeq exposures="178" val="1_116" id="6"/>
+     <elementSeq exposures="179" val="1_117" id="6"/>
+     <elementSeq exposures="180" val="1_118" id="6"/>
+     <elementSeq exposures="181" val="1_119" id="6"/>
+     <elementSeq exposures="182" val="1_120" id="6"/>
+     <elementSeq exposures="183" val="1_121" id="6"/>
+     <elementSeq exposures="188-192" val="1_62" id="6"/>
+     <elementSeq exposures="193-196" val="1_63" id="6"/>
+     <elementSeq exposures="197-198" val="1_65" id="6"/>
+     <elementSeq exposures="199-202" val="1_64" id="6"/>
+     <elementSeq exposures="203-204" val="1_66" id="6"/>
+     <elementSeq exposures="205-208" val="1_67" id="6"/>
+     <elementSeq exposures="209-211" val="1_68" id="6"/>
+     <elementSeq exposures="212-215" val="1_69" id="6"/>
+     <elementSeq exposures="216-219" val="1_70" id="6"/>
+     <elementSeq exposures="220-221" val="1_71" id="6"/>
+     <elementSeq exposures="222-223" val="1_72" id="6"/>
+     <elementSeq exposures="224-225" val="1_100" id="6"/>
+     <elementSeq exposures="226-227" val="1_101" id="6"/>
+     <elementSeq exposures="228-230" val="1_104" id="6"/>
+     <elementSeq exposures="231-232" val="1_105" id="6"/>
+     <elementSeq exposures="233-235" val="1_75" id="6"/>
+     <elementSeq exposures="236-239" val="1_76" id="6"/>
+     <elementSeq exposures="240-241" val="1_77" id="6"/>
+     <elementSeq exposures="242-245" val="1_78" id="6"/>
+     <elementSeq exposures="246-248" val="1_80" id="6"/>
+     <elementSeq exposures="249-250" val="1_81" id="6"/>
+     <elementSeq exposures="251-252" val="1_82" id="6"/>
+     <elementSeq exposures="253-254" val="1_83" id="6"/>
+     <elementSeq exposures="255-258" val="1_84" id="6"/>
+     <elementSeq exposures="259-262" val="1_86" id="6"/>
+     <elementSeq exposures="263-264" val="1_88" id="6"/>
+     <elementSeq exposures="265-267" val="1_87" id="6"/>
+     <elementSeq exposures="268-269" val="1_89" id="6"/>
+     <elementSeq exposures="270-275" val="1_85" id="6"/>
+     <elementSeq exposures="276-278" val="1_91" id="6"/>
+     <elementSeq exposures="279-281" val="1_90" id="6"/>
+     <elementSeq exposures="282-288" val="1_92" id="6"/>
+     <elementSeq exposures="289-291" val="1_110" id="6"/>
+     <elementSeq exposures="292-293" val="1_111" id="6"/>
+     <elementSeq exposures="294-295" val="1_112" id="6"/>
+     <elementSeq exposures="296-306" val="1_113" id="6"/>
     </column>
-    <column type="0" name="Drawing_3" displayOrder="3" width="100" anonymous="true" id="7">
-     <elementSeq exposures="1-144" val="1" id="7"/>
+    <column type="0" name="Drawing_3" displayOrder="2" width="100" anonymous="true" id="7">
+     <elementSeq exposures="1-10,46-63,143-144" val="1" id="7"/>
+     <elementSeq exposures="11-12" val="1_42" id="7"/>
+     <elementSeq exposures="13" val="1_43" id="7"/>
+     <elementSeq exposures="14-15" val="1_44" id="7"/>
+     <elementSeq exposures="16" val="1_46" id="7"/>
+     <elementSeq exposures="17-18" val="1_45" id="7"/>
+     <elementSeq exposures="19-20" val="1_47" id="7"/>
+     <elementSeq exposures="21-24" val="1_48" id="7"/>
+     <elementSeq exposures="25-26" val="1_49" id="7"/>
+     <elementSeq exposures="27-29" val="1_50" id="7"/>
+     <elementSeq exposures="30-33" val="1_51" id="7"/>
+     <elementSeq exposures="34-35" val="1_52" id="7"/>
+     <elementSeq exposures="36-45" val="1_53" id="7"/>
+     <elementSeq exposures="64-67" val="1_55" id="7"/>
+     <elementSeq exposures="68-71" val="1_56" id="7"/>
+     <elementSeq exposures="72-74" val="1_57" id="7"/>
+     <elementSeq exposures="75-79" val="1_58" id="7"/>
+     <elementSeq exposures="80-82" val="1_59" id="7"/>
+     <elementSeq exposures="83-87" val="1_60" id="7"/>
+     <elementSeq exposures="88-91" val="1_61" id="7"/>
+     <elementSeq exposures="92-93" val="1_62" id="7"/>
+     <elementSeq exposures="94-96" val="1_63" id="7"/>
+     <elementSeq exposures="97-99" val="1_64" id="7"/>
+     <elementSeq exposures="100-110" val="1_65" id="7"/>
+     <elementSeq exposures="111-113" val="1_66" id="7"/>
+     <elementSeq exposures="114-115" val="1_67" id="7"/>
+     <elementSeq exposures="116-120" val="1_68" id="7"/>
+     <elementSeq exposures="121-122" val="1_69" id="7"/>
+     <elementSeq exposures="123-125" val="1_70" id="7"/>
+     <elementSeq exposures="126-129" val="1_71" id="7"/>
+     <elementSeq exposures="130-131" val="1_72" id="7"/>
+     <elementSeq exposures="132-136" val="1_73" id="7"/>
+     <elementSeq exposures="137-138" val="1_74" id="7"/>
+     <elementSeq exposures="139-140" val="1_75" id="7"/>
+     <elementSeq exposures="141-142" val="1_76" id="7"/>
      <elementSeq exposures="145" val="1_23" id="7"/>
      <elementSeq exposures="146" val="1_24" id="7"/>
      <elementSeq exposures="147" val="1_26" id="7"/>
@@ -962,7 +1141,7 @@
      <elementSeq exposures="278" val="36_23" id="8"/>
      <elementSeq exposures="279-288,289-311" val="36_24" id="8"/>
     </column>
-    <column type="0" name="AnotherArm" displayOrder="4" width="100" anonymous="true" id="9">
+    <column type="0" name="AnotherArm" displayOrder="3" width="100" anonymous="true" id="9">
      <elementSeq exposures="128" val="1_28" id="9"/>
      <elementSeq exposures="129" val="1_29" id="9"/>
      <elementSeq exposures="130" val="1_30" id="9"/>
@@ -1087,7 +1266,7 @@
       <lipSync showSoundForm="0"/>
      </soundSequence>
     </column>
-    <column type="0" name="smoke" displayOrder="2" width="100" anonymous="true" id="10">
+    <column type="0" name="smoke" displayOrder="1" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-3" val="1" id="10"/>
      <elementSeq exposures="4-6" val="2" id="10"/>
      <elementSeq exposures="7-11" val="3" id="10"/>
@@ -1303,115 +1482,6 @@
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
-      </attrs>
-     </module>
-     <module type="READ" name="Face" pos="0,0,0" publishUnderTab="ArmColor">
-      <options>
-       <collapsed val="true"/>
-       <version val="1"/>
-      </options>
-      <attrs>
-       <enable3d val="false"/>
-       <faceCamera val="false"/>
-       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
-       <offset>
-        <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </offset>
-       <scale>
-        <separate val="true"/>
-        <inFields val="false"/>
-        <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
-        <z val="1" defaultValue="1"/>
-       </scale>
-       <rotation>
-        <separate val="false"/>
-        <anglex val="0" defaultValue="0"/>
-        <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
-       </rotation>
-       <angle val="0" defaultValue="0"/>
-       <skew val="0" defaultValue="0"/>
-       <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </pivot>
-       <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
-        <z val="0" defaultValue="0"/>
-       </splineOffset>
-       <ignoreParentPegScaling val="false"/>
-       <disableFieldRendering val="false"/>
-       <depth val="0"/>
-       <enableMinMaxAngle val="false"/>
-       <minAngle val="-360" defaultValue="-360"/>
-       <maxAngle val="360" defaultValue="360"/>
-       <nailForChildren val="false"/>
-       <ikHoldOrientation val="false"/>
-       <ikHoldX val="false"/>
-       <ikHoldY val="false"/>
-       <ikExcluded val="false"/>
-       <ikCanRotate val="true"/>
-       <ikCanTranslateX val="false"/>
-       <ikCanTranslateY val="false"/>
-       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
-       <ikBoneY val="0" defaultValue="0"/>
-       <ikStiffness val="1" defaultValue="1"/>
-       <drawing>
-        <elementMode val="true"/>
-        <element col="ArmColor">
-         <layer/>
-        </element>
-        <customName>
-         <name/>
-         <extension val="tga"/>
-         <fieldChart val="12" defaultValue="12"/>
-        </customName>
-       </drawing>
-       <readOverlay val="true"/>
-       <readLineArt val="true"/>
-       <readColorArt val="true"/>
-       <readUnderlay val="true"/>
-       <overlayArtDrawingMode val="VectorDrawingMode"/>
-       <lineArtDrawingMode val="VectorDrawingMode"/>
-       <colorArtDrawingMode val="VectorDrawingMode"/>
-       <underlayArtDrawingMode val="VectorDrawingMode"/>
-       <pencilLineDeformationPreserveThickness val="false"/>
-       <pencilLineDeformationQuality val="Low"/>
-       <pencilLineDeformationSmooth val="1"/>
-       <pencilLineDeformationFitError val="3" defaultValue="3"/>
-       <readColor val="true"/>
-       <readTransparency val="true"/>
-       <colorTransformation val="Linear"/>
-       <applyMatteToColor val="N"/>
-       <enableLineTexture val="true"/>
-       <antialiasingQuality val="HIGH"/>
-       <antialiasingExponent val="1" defaultValue="1"/>
-       <opacity val="100" defaultValue="100"/>
-       <textureFilter val="NEAREST_FILTERED"/>
-       <adjustPencilThickness val="false"/>
-       <normalLineArtThickness val="true"/>
-       <zoomIndependentLineArtThickness val="true"/>
-       <multLineArtThickness val="1" defaultValue="1"/>
-       <addLineArtThickness val="0" defaultValue="0"/>
-       <minLineArtThickness val="0" defaultValue="0"/>
-       <maxLineArtThickness val="0" defaultValue="0"/>
-       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
-       <flipHor val="false"/>
-       <flipVert val="false"/>
-       <turnBeforeAlignment val="false"/>
-       <noClipping val="false"/>
-       <xClipFactor val="0"/>
-       <yClipFactor val="0"/>
-       <alignmentRule val="CENTER_FIRST_PAGE"/>
-       <morphingVelo val="0" defaultValue="0"/>
-       <canAnimate val="true"/>
       </attrs>
      </module>
      <module type="READ" name="smoke" pos="0,0,0" publishUnderTab="smoke">
@@ -1802,6 +1872,115 @@
        <drawing>
         <elementMode val="true"/>
         <element col="Drawing">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="Face" pos="0,0,0" publishUnderTab="ArmColor">
+      <options>
+       <collapsed val="true"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ArmColor">
          <layer/>
         </element>
         <customName>
@@ -2291,11 +2470,11 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="Face" in="Composite" inport="8"/>
-     <link out="smoke" in="Composite" inport="7"/>
-     <link out="Cigarette" in="Composite" inport="6"/>
-     <link out="AnotherArm" in="Composite" inport="5"/>
-     <link out="Arm" in="Composite" inport="4"/>
+     <link out="smoke" in="Composite" inport="8"/>
+     <link out="Cigarette" in="Composite" inport="7"/>
+     <link out="AnotherArm" in="Composite" inport="6"/>
+     <link out="Arm" in="Composite" inport="5"/>
+     <link out="Face" in="Composite" inport="4"/>
      <link out="Drink" in="Composite" inport="3"/>
      <link out="Body" in="Composite" inport="2"/>
      <link out="Sketch" in="Composite" inport="1"/>

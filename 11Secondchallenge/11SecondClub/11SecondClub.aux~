@@ -200,6 +200,69 @@
   <Drawing Key="" Name="1_54" Version="1"/>
   <Drawing Key="" Name="1_55" Version="1"/>
   <Drawing Key="" Name="1_56" Version="1"/>
+  <Drawing Key="" Name="1_57" Version="1"/>
+  <Drawing Key="" Name="1_58" Version="1"/>
+  <Drawing Key="" Name="1_59" Version="1"/>
+  <Drawing Key="" Name="1_60" Version="1"/>
+  <Drawing Key="" Name="1_61" Version="1"/>
+  <Drawing Key="" Name="1_62" Version="1"/>
+  <Drawing Key="" Name="1_63" Version="1"/>
+  <Drawing Key="" Name="1_64" Version="1"/>
+  <Drawing Key="" Name="1_65" Version="1"/>
+  <Drawing Key="" Name="1_66" Version="1"/>
+  <Drawing Key="" Name="1_67" Version="1"/>
+  <Drawing Key="" Name="1_68" Version="1"/>
+  <Drawing Key="" Name="1_69" Version="1"/>
+  <Drawing Key="" Name="1_70" Version="1"/>
+  <Drawing Key="" Name="1_71" Version="1"/>
+  <Drawing Key="" Name="1_72" Version="1"/>
+  <Drawing Key="" Name="1_73" Version="1"/>
+  <Drawing Key="" Name="1_74" Version="1"/>
+  <Drawing Key="" Name="1_75" Version="1"/>
+  <Drawing Key="" Name="1_76" Version="1"/>
+  <Drawing Key="" Name="1_77" Version="1"/>
+  <Drawing Key="" Name="1_78" Version="1"/>
+  <Drawing Key="" Name="1_79" Version="1"/>
+  <Drawing Key="" Name="1_80" Version="1"/>
+  <Drawing Key="" Name="1_81" Version="1"/>
+  <Drawing Key="" Name="1_82" Version="1"/>
+  <Drawing Key="" Name="1_83" Version="1"/>
+  <Drawing Key="" Name="1_84" Version="1"/>
+  <Drawing Key="" Name="1_85" Version="1"/>
+  <Drawing Key="" Name="1_86" Version="1"/>
+  <Drawing Key="" Name="1_87" Version="1"/>
+  <Drawing Key="" Name="1_88" Version="1"/>
+  <Drawing Key="" Name="1_89" Version="1"/>
+  <Drawing Key="" Name="1_90" Version="1"/>
+  <Drawing Key="" Name="1_91" Version="1"/>
+  <Drawing Key="" Name="1_92" Version="1"/>
+  <Drawing Key="" Name="1_93" Version="1"/>
+  <Drawing Key="" Name="1_94" Version="1"/>
+  <Drawing Key="" Name="1_95" Version="1"/>
+  <Drawing Key="" Name="1_96" Version="1"/>
+  <Drawing Key="" Name="1_97" Version="1"/>
+  <Drawing Key="" Name="1_98" Version="1"/>
+  <Drawing Key="" Name="1_99" Version="1"/>
+  <Drawing Key="" Name="1_100" Version="1"/>
+  <Drawing Key="" Name="1_101" Version="1"/>
+  <Drawing Key="" Name="1_104" Version="1"/>
+  <Drawing Key="" Name="1_105" Version="1"/>
+  <Drawing Key="" Name="1_106" Version="1"/>
+  <Drawing Key="" Name="1_107" Version="1"/>
+  <Drawing Key="" Name="1_108" Version="1"/>
+  <Drawing Key="" Name="1_109" Version="1"/>
+  <Drawing Key="" Name="1_110" Version="1"/>
+  <Drawing Key="" Name="1_111" Version="1"/>
+  <Drawing Key="" Name="1_112" Version="1"/>
+  <Drawing Key="" Name="1_113" Version="1"/>
+  <Drawing Key="" Name="1_114" Version="1"/>
+  <Drawing Key="" Name="1_115" Version="1"/>
+  <Drawing Key="" Name="1_116" Version="1"/>
+  <Drawing Key="" Name="1_117" Version="1"/>
+  <Drawing Key="" Name="1_118" Version="1"/>
+  <Drawing Key="" Name="1_119" Version="1"/>
+  <Drawing Key="" Name="1_120" Version="1"/>
+  <Drawing Key="" Name="1_121" Version="1"/>
  </Element>
  <Element Name="Cigarette" ID="7" Folder="Cigarette">
   <Drawing Key="" Name="1" Version="1"/>
@@ -244,6 +307,40 @@
   <Drawing Key="" Name="1_39" Version="1"/>
   <Drawing Key="" Name="1_40" Version="1"/>
   <Drawing Key="" Name="1_41" Version="1"/>
+  <Drawing Key="" Name="1_42" Version="1"/>
+  <Drawing Key="" Name="1_43" Version="1"/>
+  <Drawing Key="" Name="1_44" Version="1"/>
+  <Drawing Key="" Name="1_45" Version="1"/>
+  <Drawing Key="" Name="1_46" Version="1"/>
+  <Drawing Key="" Name="1_47" Version="1"/>
+  <Drawing Key="" Name="1_48" Version="1"/>
+  <Drawing Key="" Name="1_49" Version="1"/>
+  <Drawing Key="" Name="1_50" Version="1"/>
+  <Drawing Key="" Name="1_51" Version="1"/>
+  <Drawing Key="" Name="1_52" Version="1"/>
+  <Drawing Key="" Name="1_53" Version="1"/>
+  <Drawing Key="" Name="1_55" Version="1"/>
+  <Drawing Key="" Name="1_56" Version="1"/>
+  <Drawing Key="" Name="1_57" Version="1"/>
+  <Drawing Key="" Name="1_58" Version="1"/>
+  <Drawing Key="" Name="1_59" Version="1"/>
+  <Drawing Key="" Name="1_60" Version="1"/>
+  <Drawing Key="" Name="1_61" Version="1"/>
+  <Drawing Key="" Name="1_62" Version="1"/>
+  <Drawing Key="" Name="1_63" Version="1"/>
+  <Drawing Key="" Name="1_64" Version="1"/>
+  <Drawing Key="" Name="1_65" Version="1"/>
+  <Drawing Key="" Name="1_66" Version="1"/>
+  <Drawing Key="" Name="1_67" Version="1"/>
+  <Drawing Key="" Name="1_68" Version="1"/>
+  <Drawing Key="" Name="1_69" Version="1"/>
+  <Drawing Key="" Name="1_70" Version="1"/>
+  <Drawing Key="" Name="1_71" Version="1"/>
+  <Drawing Key="" Name="1_72" Version="1"/>
+  <Drawing Key="" Name="1_73" Version="1"/>
+  <Drawing Key="" Name="1_74" Version="1"/>
+  <Drawing Key="" Name="1_75" Version="1"/>
+  <Drawing Key="" Name="1_76" Version="1"/>
  </Element>
  <Element Name="Drink" ID="8" Folder="Drink">
   <Drawing Key="" Name="1" Version="1"/>
